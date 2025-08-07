@@ -1,0 +1,102 @@
+.hud{
+    background-color: #C23A00;
+
+}
+.Link{
+    color: #ffffff;
+    text-decoration: none;
+    display: inline;
+}
+.oval1{
+    border-radius: 30px;
+    background-color: #EB6300;
+    width: 200px;
+    height: 40px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #BDBDBD;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.rodape-esquerda {
+    max-width: 50%;
+    display: flex;
+    position: relative;
+}
+
+.rodape-esquerda p {
+    position: relative;
+    display: flex;
+}
+
+.rodape-direita {
+    gap: 40px;
+    position: relative;
+}
+
+.rodape-direita h4 {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.rodape-direita ul {
+    list-style: none;
+    position: relative;
+}
+
+.rodape-direita a {
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h4{
+    background-color: #EB6300;
+    color: azure;
+    width: 230px;
+    border-radius: 15px;
+}
+.tipos{
+    background-color: #DBE9E9;
+    font-size: 36;
+}
+.watch{
+    background-color: #DBE9E9;
+}
+.oculos{
+    background-color: #DBE9E9;
+}
+.funcionalidades{
+    background-color: #DBE9E9;
+}
+.marcas{
+    background-color: #DBE9E9;
+}
+
+
+
+
+
+
+
+
+
+
+
