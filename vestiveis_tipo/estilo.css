@@ -1,5 +1,6 @@
 .hud{
     background-color: #C23A00;
+    height: 92;
 
 }
 .Link{
@@ -67,28 +68,47 @@ a:hover {
     text-decoration: underline;
 }
 
-h4{
-    background-color: #EB6300;
-    color: azure;
-    width: 230px;
-    border-radius: 15px;
-}
 .tipos{
     background-color: #DBE9E9;
     font-size: 36;
-}
+    
+    width: 1267px;
+    height: 675;
+}   
 .watch{
     background-color: #DBE9E9;
+    display: flex;
 }
 .oculos{
     background-color: #DBE9E9;
+    display: flex;
 }
 .funcionalidades{
     background-color: #DBE9E9;
+    display: flex;
+
 }
 .marcas{
     background-color: #DBE9E9;
+    display: flex;
 }
+.st1{
+    width: 1114px;
+    height:90px;
+    background-color: #EB6300;
+}
+.st2{
+    background-color: #EB6300;
+}
+.st3{
+    background-color: #EB6300;
+}.st4{
+    background-color: #EB6300;
+}
+.st5{
+    background-color: #EB6300;
+}
+
 
 
 
