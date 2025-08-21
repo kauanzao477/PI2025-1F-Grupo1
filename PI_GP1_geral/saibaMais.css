@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff6f0;
+    color: #333;
+}
+
+header {
+    background-color: #FF5A00;
+    padding: 10px 0;
+    text-align: center;
+}
+header  a{
+
+   margin: 15px;
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+   font-weight: bold;
+
+}
+
+
+.imagem-topo img {
+    width: 100%;
+    max-height: 250px;
+    object-fit: cover;
+}
+
+.secao {
+    background-color: #e04300;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.secao h2 {
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+}
+
+footer {
+    background-color: #7c7979;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+}
+
+body{
+    background-color: #eb6200;
+}
