@@ -1,0 +1,60 @@
+body{
+    background-color: #767d7c;
+}
+
+.sobnostext{
+    color: #ffffff;
+    font-size:32px;
+    display: flex;
+    align-items: center;
+}
+.sobnos{
+    background-color: #eb6200;
+    display:flex;
+    justify-content: center;
+    width:50%;
+}
+
+.topo{
+    background-color: #E04300;
+    width: auto;
+    display:flex;
+    justify-content: center;
+    height:64px;
+}
+
+.texto{
+    color: #ffffff;
+    font-size: 32px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 200px;
+    display:flex;
+}
+
+.imagem{
+        width: 250px;
+        height: 300px;
+}
+
+footer{
+        background-color:#E04300;
+        justify-content: center;
+        display: flex;
+        font-size: 20px;
+        padding-left: 10%;
+        padding-right:10%;
+        justify-content: space-around;
+}
+
+.gui10{
+        display:flex;
+        flex-direction: column;
+        align-self:center;
+}
+
+.infos{
+        display:flex;
+        flex-direction: column;
+        align-self:center;
+}
