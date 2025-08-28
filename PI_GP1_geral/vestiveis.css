@@ -12,20 +12,16 @@ body {
 }
 
 header {
-  background: #FF5A00;
-  padding: 15px;
-  text-align: center;
+    background-color: #FF5A00;
+    padding: 10px 0;
+    text-align: center;
 }
 
-.menu-topo a {
-  color: white;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.menu-topo a:hover {
-  color: #f7931e;
+.menu a {
+    margin: 15px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
 }
 
 
