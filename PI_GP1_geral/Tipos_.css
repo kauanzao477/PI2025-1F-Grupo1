@@ -39,7 +39,6 @@ nav ul li a {
     font-weight: bold;
 }
 
-
 .secao-cinza {
     display: flex;
     background-color: #f2f2f2;
@@ -49,8 +48,11 @@ nav ul li a {
 .secao-cinza .texto {
     flex: 1;
     padding-right: 20px;
-    background-color: #767d7c;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #e04300;
 }
+
 .secao-cinza .imagem img {
     max-width: 100%;
     border-radius: 8px;
@@ -59,9 +61,8 @@ nav ul li a {
 .secao-azul {
     background-color: #dbe9e8;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
 }
-
 
 .botao {    
     display: inline-block;
@@ -72,18 +73,20 @@ nav ul li a {
     border-radius: 5px;
 }
 
-
 .imagem-grande img {
     width: 100%;
     display: block;
 
 }
-
+.p{
+    margin: 20px;
+}
 
 footer {
-background-color: #7C7979;
+background-color: #e04300;
 padding: 20px;
 display: flex;
+margin: 10px;
 justify-content: space-between;
 flex-wrap: wrap;
 }
