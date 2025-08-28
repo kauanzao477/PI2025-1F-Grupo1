@@ -74,9 +74,9 @@ nav ul li a {
 }
 
 .imagem-grande img {
-    width: 100%;
+    width: 90%;
     display: block;
-
+    align-items: right;
 }
 .p{
     margin: 20px;
